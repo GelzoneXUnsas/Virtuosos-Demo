@@ -3,6 +3,7 @@
 .DS_Store
 mono_crash.*
 UpgradeLog.htm
+CaseSensitiveTest
 
 
 # This .gitignore file should be placed at the root of your Unity project directory
