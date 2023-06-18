@@ -1,0 +1,11 @@
+# Version FINAL
+
+VENTO: Bronte! We’ve fixed one of the laser cannons with those parts you collected, but the enemies keep coming! 
+BRONTE: I can handle it, keep manning the ship!
+DOLCE: No, you can’t. See the next wave of fighters? Their attacks sound like some sort of resonance. 
+DOLCE: They’re just going to hit you every second you’re still recovering from you last hammer strike. Let me try.
+BRONTE: What? What weapon are you going to use?
+DOLCE: The piano, what else?
+VENTO: Dolce’s got a point. Stand down, Bronte!
+BRONTE: Whatever. I bet you won’t be able to destroy half as many of 'em.
+DOLCE: I’ll take that bet.

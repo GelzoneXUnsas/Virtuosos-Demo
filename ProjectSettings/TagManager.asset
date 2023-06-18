@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Note
+  - ParticleSys
+  - health
+  - Collect
+  - HoldSquare
+  - HoldNote
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Foreground
+  - midground1
+  - midground2
+  - MegaForeground
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4281171651
+    locked: 0
+  - name: Midground2
+    uniqueID: 3721811921
+    locked: 0
+  - name: Midground1
+    uniqueID: 3263335107
+    locked: 0
+  - name: Foreground
+    uniqueID: 3493479499
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MegaForeground
+    uniqueID: 525929075
+    locked: 0
