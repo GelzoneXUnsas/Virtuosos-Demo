@@ -1,5 +1,9 @@
 */.DS_Store
 */*.DS_Store
+.DS_Store
+mono_crash.*
+UpgradeLog.htm
+
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
