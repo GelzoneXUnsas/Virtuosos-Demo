@@ -194,7 +194,6 @@ public class Narrative : MonoBehaviour
                 narrative_index++;
             }
 
-            Debug.Log (narrative_index);
             if (1 == PlayerPrefs.GetInt("level_number") && narrative_index == 4)
             {
                 sfx.Playfire();
