@@ -67,7 +67,9 @@ public class Pause : MonoBehaviour
     {
         if (
             SceneManager.GetActiveScene().name == "Game" &&
-            Input.GetKeyDown(KeyCode.Escape)
+            Input.GetKeyDown(KeyCode.Escape) &&
+            spine.state != InterfaceState.RESULTS &&
+            spine.state != InterfaceState.GAME_OVER
         )
         {
             toPause();
