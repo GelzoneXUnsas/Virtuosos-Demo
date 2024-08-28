@@ -10,10 +10,10 @@ PrefabInstance:
     - target: {fileID: -3599134465527122711, guid: eb29788ce10366c4fa8604580c21bf27, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 9180535de3ca5794186bb3a176d5589c, type: 2}
+      objectReference: {fileID: 9100000, guid: 735388e27fe6546b487877332e9e3351, type: 2}
     - target: {fileID: 3152407877717724056, guid: eb29788ce10366c4fa8604580c21bf27, type: 3}
       propertyPath: yOffset
-      value: -0.95
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 3152407877717724056, guid: eb29788ce10366c4fa8604580c21bf27, type: 3}
       propertyPath: Threshold
@@ -22,7 +22,7 @@ PrefabInstance:
     - target: {fileID: 3152407877717724057, guid: eb29788ce10366c4fa8604580c21bf27, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1668041154, guid: c55f6b6a6e1e2d44fa89e12bf6db84e1, type: 3}
+      objectReference: {fileID: 407974834, guid: 5da9abad956284785b35b47d63cd5990, type: 3}
     - target: {fileID: 3152407877717724057, guid: eb29788ce10366c4fa8604580c21bf27, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
