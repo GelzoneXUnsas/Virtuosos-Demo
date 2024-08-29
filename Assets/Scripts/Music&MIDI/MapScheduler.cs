@@ -44,13 +44,13 @@ public class MapScheduler : MonoBehaviour
 
     public float FarBackgroundSpeed;
 
-    float map_dx = 60f;
+    float map_dx = 105f;
 
-    float for_dx = 60f;
+    float for_dx = 105f;
 
-    float back_dx = 60f;
+    float back_dx = 91f;
 
-    float far_back_dx = 90f;
+    float far_back_dx = 88f;
 
     float background_offset_x = 10.0f;
 
